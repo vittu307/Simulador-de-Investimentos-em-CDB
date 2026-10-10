@@ -57,6 +57,12 @@ O desenvolvimento deste projeto permitiu praticar:
 - Visualização de dados com Matplotlib.
 - Organização e documentação de código.
 
+## Exemplo de execução
+
+Abaixo, um exemplo visual do resultado gerado pelo simulador.
+
+![Exemplo do gráfico de evolução do patrimônio](<img width="989" height="490" alt="exemplo" src="https://github.com/user-attachments/assets/b5464593-fa28-403c-82b6-1a999d243f95" />
+)
 ## Aviso
 
 Este projeto possui finalidade exclusivamente educacional. Não constitui recomendação de investimento.
