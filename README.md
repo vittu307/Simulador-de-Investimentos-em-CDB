@@ -61,8 +61,7 @@ O desenvolvimento deste projeto permitiu praticar:
 
 Abaixo, um exemplo visual do resultado gerado pelo simulador.
 
-![Exemplo do gráfico de evolução do patrimônio](<img width="989" height="490" alt="exemplo" src="https://github.com/user-attachments/assets/b5464593-fa28-403c-82b6-1a999d243f95" />
-)
+![Exemplo do gráfico de evolução do patrimônio](exemplo.png)
 ## Aviso
 
 Este projeto possui finalidade exclusivamente educacional. Não constitui recomendação de investimento.
